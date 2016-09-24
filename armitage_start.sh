@@ -1,8 +1,5 @@
 #!/bin/bash
 #
-# Author: Christopher Ashby
-# Last Updated: 20140218
-# 
 # Sets up enviroment for ruby, metasploit, and armitage - upon success it will start the armitage GUI!
 #
 # Enable $PATH for RVM scripting
