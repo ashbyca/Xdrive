@@ -1,7 +1,7 @@
 # syslaunchers
 Various scripts to setup envrionments and autoexecute applications from the cli.
 
-###### [Most of these scripts will require wine to be installed- view instructions](https://gist.github.com/ashbyca/8f42156fc847fc07f56c7027e042a1cd)
+###### [Most of these scripts will require Wine to be installed - view instructions](https://gist.github.com/ashbyca/8f42156fc847fc07f56c7027e042a1cd)
 
 ## armitage_start.sh
 Shell script to setup enviroment for ruby, metasploit, and armitage - upon success it will start the armitage GUI management interface for the metasploit framework - http://fastandeasyhacking.com
