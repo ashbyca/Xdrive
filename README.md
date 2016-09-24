@@ -36,3 +36,9 @@ wine
 ms visio 2010
 ```
 **Note, before executing this script you need to enter your userpath variable** 
+
+#To Do
+- Integrate seperate install scripts with requirements (currently seperate script)
+- Document install script
+- Confirm MacOS Sierra compatability and update as necessary
+- Remember why I created applets for postgresSQL and document/delete
