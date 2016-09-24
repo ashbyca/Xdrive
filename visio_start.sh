@@ -1,8 +1,5 @@
 #!/bin/bash
 #
-# Author: Christopher Ashby
-# Last Updated: 20140325
-# 
 # Sets up enviroment for x86 32Bit wine and MS Visio - upon success it will start the Microsoft Visio 2010!
 #
 # Enable x86 32Bit Wine Prefix
