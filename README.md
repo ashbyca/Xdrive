@@ -14,7 +14,7 @@ armitage
 **Note, before executing this script you need to enter your DB password** 
 
 ## hookanalyser_start.sh
-Shell script to setup enviroment for running hook analyser on OSX using wine
+Shell script to setup enviroment for running hook analyser on OSX using wine - http://www.kitploit.com/2015/07/hook-analyser-32-malware-analysis-tool.html
 
 ###### Requirements
 ```
