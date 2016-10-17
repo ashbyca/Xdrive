@@ -42,5 +42,3 @@ ms visio 2010
 #To Do
 - Integrate seperate install scripts with requirements (currently seperate script)
 - Document install script
-- Confirm MacOS Sierra compatability and update as necessary
-- Remember why I created applets for postgresSQL and document/delete
