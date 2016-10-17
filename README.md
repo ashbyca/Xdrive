@@ -39,6 +39,22 @@ ms visio 2010
 ```
 **Note, before executing this script you need to enter your userpath variable** 
 
+## term_colors
+Shell script to setup enviroment terminal environment for OSX
+
+###### Requirements
+```
+osx 10.10
+```
+
+## terminal_logging
+Shell script to log terminal sessions, files are located in "Library/Logs/Terminal"
+
+###### Requirements
+```
+osx 10.10
+```
+
 #To Do
 - Integrate seperate install scripts with requirements (currently seperate script)
 - Document install script
