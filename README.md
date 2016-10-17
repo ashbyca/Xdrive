@@ -1,5 +1,5 @@
-# syslaunchers
-Various scripts to setup envrionments and autoexecute applications from the cli.
+# Xdrive
+Various scripts to setup tool envrionments and execute applications from the cli.
 
 ###### [Most of these scripts will require Wine to be installed - view instructions](https://gist.github.com/ashbyca/8f42156fc847fc07f56c7027e042a1cd)
 
