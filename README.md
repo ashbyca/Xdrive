@@ -51,6 +51,9 @@ osx 10.10
 Shell script to log terminal sessions, files are located in "Library/Logs/Terminal"
 **Note you will need to modify your preferences in the terminal app to startup this script**
 
+![Image of Terminal Preferences] (https://cloud.githubusercontent.com/assets/6200040/19460249/da26f0f8-94a7-11e6-91cb-c179876ab4b3.png)
+
+
 ###### Requirements
 ```
 osx 10.10
