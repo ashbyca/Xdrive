@@ -1,5 +1,5 @@
-# Xdrive
-Various scripts to setup tool envrionments and execute applications from the cli.
+# osxsetup
+Various scripts to setup tool envrionments and execute applications from the cli for osx.
 
 ###### [Most of these scripts will require Wine to be installed - view instructions](https://gist.github.com/ashbyca/8f42156fc847fc07f56c7027e042a1cd)
 
@@ -27,25 +27,16 @@ hook analyser
 ```
 **Note, before executing this script you need to enter your userpath variable** 
 
-## visio_start.sh
-Shell script to setup enviroment for running Visio 2010 on OSX using wine
+# visio_setup.sh
+Shell script to setup enviroment for running Visio 2010 on OSX using wine, note that this does NOT install Microsoft Visio 2010.  You will still need to install the application using #env WINEPREFIX=~/.visio wine /path/to/visio10/setup.exe
 
-###### Requirements
-```
-osx 10.10
-homebrew
-wine
-ms visio 2010
-```
+## visio_start.sh
+Shell script to start Microsoft Visio 2010 (once installed using the script above)
+
 **Note, before executing this script you need to enter your userpath variable** 
 
-## term_colors
-Shell script to setup enviroment terminal environment for OSX
-
-###### Requirements
-```
-osx 10.10
-```
+# term_colors
+Shell script to setup terminal environment for OSX
 
 ## terminal_logging
 Shell script to log terminal sessions, files are located in "Library/Logs/Terminal"
@@ -54,11 +45,5 @@ Shell script to log terminal sessions, files are located in "Library/Logs/Termin
 ![Image of Terminal Preferences] (https://cloud.githubusercontent.com/assets/6200040/19460249/da26f0f8-94a7-11e6-91cb-c179876ab4b3.png)
 
 
-###### Requirements
-```
-osx 10.10
-```
-
 #To Do
-- Integrate seperate install scripts with requirements (currently seperate script)
-- Document install script
+- Integrate seperate install scripts with requirements (currently seperate scripts)
