@@ -27,7 +27,7 @@ hook analyser
 ```
 **Note, before executing this script you need to enter your userpath variable** 
 
-# visio_setup.sh
+## visio_setup.sh
 Shell script to setup enviroment for running Visio 2010 on OSX using wine, note that this does NOT install Microsoft Visio 2010.  You will still need to install the application using #env WINEPREFIX=~/.visio wine /path/to/visio10/setup.exe
 
 ## visio_start.sh
@@ -35,7 +35,7 @@ Shell script to start Microsoft Visio 2010 (once installed using the script abov
 
 **Note, before executing this script you need to enter your userpath variable** 
 
-# term_colors
+## term_colors
 Shell script to setup terminal environment for OSX
 
 ## terminal_logging
