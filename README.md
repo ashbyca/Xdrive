@@ -1,4 +1,4 @@
-# visio
+# osxvisio
 Installation script for msvisio 2010 on osx and cli launcher
 
 ## visio_setup.sh
